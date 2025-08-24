@@ -1,0 +1,10 @@
+body{
+    font-family: "Noto Sans", sans-serif;
+}
+.banner{
+    background-image: url(/Myportfolio/images/7.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+   
+}
